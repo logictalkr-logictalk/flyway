@@ -1,0 +1,1 @@
+INSERT INTO ACCOUNTS VALUES(2,'JANIki','janakiram@123','jani@gmail.com')
